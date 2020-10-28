@@ -1,6 +1,3 @@
-# iOS-ExpandableTableviewSection
-
-Expandable tableview section with reorderable cells.
-
+# iOS-CollectionViewTest
 
 <img src="demo.gif" width="320" height="569"/>
